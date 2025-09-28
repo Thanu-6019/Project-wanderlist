@@ -1,8 +1,0 @@
-@keyframes floatCloud {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-16px); }
-  100% { transform: translateY(0px); }
-}
-.animate-\[floatCloud_12s_linear_infinite\] {
-  animation: floatCloud 12s linear infinite;
-}
